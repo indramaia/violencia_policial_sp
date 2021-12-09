@@ -1,4 +1,6 @@
-# violencia_policial_sp
+![logo_governoSSP](https://user-images.githubusercontent.com/65928388/145311514-14d084ed-2537-479b-a3a3-5b0756183f99.png)
+![seg_logo](https://user-images.githubusercontent.com/65928388/145311518-8000eb97-38a4-4386-9d47-dfca5380a1eb.png)
+
 ## Visualização de dados acerca da letalidade policial do site Governo Aberto da Prefeitura de São Paulo
 ## Viewing data on police lethality from the Open Government website of the City Hall of São Paulo
 I've used the dataset on Death due to police intervention of the Public Security website of São Paulo city 
