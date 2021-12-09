@@ -17,14 +17,14 @@ Tableau
 ### Serviços/ Services
 Github
 
-## Bibliotecas/ Libraries
+### Bibliotecas/ Libraries
 
 matplotlib
 numpy
 pandas
 csv
 
-Desde 1995, a Secretaria de Segurança Pública publica, de forma pioneira no Brasil, os indicadores criminais trimestrais no Diário Oficial. Como resultado da evolução da tecnologia e do uso generalizado da internet, a partir de abril de 2011 esses dados começaram a ser publicado no seu site mensalmente por região, município e unidade policial.
+##### Desde 1995, a Secretaria de Segurança Pública publica, de forma pioneira no Brasil, os indicadores criminais trimestrais no Diário Oficial. Como resultado da evolução da tecnologia e do uso generalizado da internet, a partir de abril de 2011 esses dados começaram a ser publicado no seu site mensalmente por região, município e unidade policial.
 Since 1995, the Secretariat of Public Security has published, in a pioneering manner in Brazil, the criminal indicators quarterly in the Official Gazette.As a result of the evolution of technology and the widespread use of the internet, as of April 2011 this data began to be published on its website monthly by region, municipality and police unit.
 
 # Conclusões (imagens do Tableau):
