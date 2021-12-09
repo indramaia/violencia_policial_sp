@@ -1,6 +1,6 @@
 # violencia_policial_sp
 ## Visualização de dados acerca da letalidade policial do site Governo Aberto da Prefeitura de São Paulo
-
+## Viewing data on police lethality from the Open Government website of the City Hall of São Paulo
 I've used the dataset on Death due to police intervention of the Public Security website of São Paulo city 
 of http://www.ssp.sp.gov.br/transparenciassp/Consulta.aspx, did data cleaning, exploratory analysis and then used Tableau to visualize better and gain further insightson the data at hand.
 
